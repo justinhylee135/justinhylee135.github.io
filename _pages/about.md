@@ -34,3 +34,11 @@ My research interests include:
 - Diffusion Model
 - Model Merging
 - Multimodal Model
+
+<div style="margin-top: 2em;">
+For publications please visit my <a href='https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=WDjxgH0AAAAJ'>Google Scholar</a>
+</div>
+
+<div style="margin-top: 2em;">
+Also please check out our new project <a href='https://justinhylee135.github.io/CUIG_Project_Page/'> Continual Unlearning for Image Generation </a>
+</div>
