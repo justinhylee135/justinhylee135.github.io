@@ -1,8 +1,9 @@
 # -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
+# Run Locally: bundle exec jekyll serve
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Justin Lee # the website title (if blank, full name will be used instead)
 first_name: Justin
 middle_name:
 last_name: Lee
@@ -46,7 +47,7 @@ repo_trophies:
 
 navbar_fixed: true
 footer_fixed: true
-search_enabled: true
+search_enabled: false
 socials_in_search: true
 posts_in_search: true
 bib_search: true
@@ -627,15 +628,15 @@ jekyll_get_json:
     json: assets/json/resume.json # it can also be an url
 
 jsonresume:
-  - basics
-  - work
-  - education
-  - publications
-  - projects
-  - volunteer
-  - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+  # - basics
+  # - work
+  # - education
+  # - publications
+  # - projects
+  # - volunteer
+  # - awards
+  # - certificates
+  # - skills
+  # - languages
+  # - interests
+  # - references
