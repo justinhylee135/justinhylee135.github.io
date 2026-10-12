@@ -171,7 +171,8 @@ a:hover {
 
 .publication-list,
 .news-list,
-.awards-list {
+.awards-list,
+.service-list {
   display: grid;
   gap: 0;
 }
@@ -183,7 +184,8 @@ a:hover {
 
 .publication-list .list-item:first-child,
 .news-list .list-item:first-child,
-.awards-list .list-item:first-child {
+.awards-list .list-item:first-child,
+.service-list .list-item:first-child {
   border-top: none;
   padding-top: 0;
 }
